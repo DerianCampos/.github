@@ -38,9 +38,10 @@ tags: [audit, code-review, quality, security, architecture]
 | # | Skill | Path | Description |
 |---|---|---|---|
 | 1 | clean-architecture | `.github/skills/clean-architecture/SKILL.md` | Dependency rule, layer separation, entity purity, use-case isolation |
-| 2 | dry-kiss-yagni | `.github/skills/dry-kiss-yagni/SKILL.md` | DRY, KISS, YAGNI violations |
-| 3 | python-standards | `.github/skills/python-standards/SKILL.md` | PEP 8, type hints, naming, security |
-| 4 | solid-principles | `.github/skills/solid-principles/SKILL.md` | SRP, OCP, LSP, ISP, DIP violations |
+| 2 | domain-driven-design | `.github/skills/domain-driven-design/SKILL.md` | DDD compliance: entities, value objects, aggregates, repositories, bounded contexts |
+| 3 | dry-kiss-yagni | `.github/skills/dry-kiss-yagni/SKILL.md` | DRY, KISS, YAGNI violations |
+| 4 | python-standards | `.github/skills/python-standards/SKILL.md` | PEP 8, type hints, naming, security |
+| 5 | solid-principles | `.github/skills/solid-principles/SKILL.md` | SRP, OCP, LSP, ISP, DIP violations |
 
 **To add/modify:** Edit table above. Skills are loaded during Inspect phase. Missing skills logged but don't abort audit.
 
